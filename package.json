@@ -1,0 +1,25 @@
+{
+  "name": "website-template-1",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "This is a generic website template built using Node.js, Express.js, and EJS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nacochran/website-template-1.git"
+  },
+  "author": "Nathan Cochran",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nacochran/website-template-1/issues"
+  },
+  "homepage": "https://github.com/nacochran/website-template-1#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "ejs": "^3.1.9",
+    "express": "^4.18.2"
+  }
+}
